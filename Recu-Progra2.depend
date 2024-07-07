@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1719876210 source:c:\users\msi\onedrive\escritorio\recuperatorio - programacion\recu-progra2\bertisebastian.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+
